@@ -801,7 +801,7 @@ export default function Portfolio() {
                       >
                         <Briefcase className="w-8 h-8 text-teal-400" />
                       </motion.div>
-                      Current Role
+                      Latest Role
                     </CardTitle>
                   </CardHeader>
                   <CardContent className="text-white/80 relative z-10">
